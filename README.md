@@ -7,4 +7,4 @@ Simple five operations microprocessor design and verification project. The code 
 -	Outputs: 8-bit result, zero flag and overflow flag.
 
 ## Block Diagram
-![Block Diagram]([/images/Block Diagram.png](https://github.com/AlyNasr/SystemVerilog-Project-Simple-Microprocessor-Design-and-Verification/blob/main/images/Block%20Diagram.png))
+![Block Diagram](https://github.com/AlyNasr/SystemVerilog-Project-Simple-Microprocessor-Design-and-Verification/blob/main/images/Block%20Diagram.png)
